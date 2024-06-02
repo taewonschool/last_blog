@@ -37,7 +37,7 @@ categories: Java
 위 사진은 기본적으로 서비스를 이용할떄 필수적으로 거쳐야한다.
 그래서 이공간을 직접 꾸미며 사용하기 편하게 만들었다.
 ```
-![bot1](./chat_bot1.jpg)
+![bot1](https://taewonschool.github.io/last_blog/assets/chat_bot1.jpg)
 
 ### 4.개발소감
 
