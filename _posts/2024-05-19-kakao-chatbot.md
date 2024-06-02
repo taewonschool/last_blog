@@ -24,7 +24,7 @@ categories: Java
 다음기능으로는 학교 인스타로 들어갈수있는 하이퍼링크와 학교 홈페이지로 갈수있는
 하이퍼링크가 있다.위 사진이 완성된 인터페이스 이다. 
 ```
-![bot2](./chat_bot2.jpg)
+![bot2](https://taewonschool.github.io/last_blog/assets/chat_bot2.jpg)
 
 ### 3.개발 내용
 
