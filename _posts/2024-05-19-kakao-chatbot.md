@@ -24,7 +24,7 @@ categories: Java
 다음기능으로는 학교 인스타로 들어갈수있는 하이퍼링크와 학교 홈페이지로 갈수있는
 하이퍼링크가 있다.위 사진이 완성된 인터페이스 이다. 
 ```
-<img src="./chat_bot2.jpg", height="100x", width="100px">
+![bot2](./chat_bot2.jpg)
 
 ### 3.개발 내용
 
@@ -37,7 +37,7 @@ categories: Java
 위 사진은 기본적으로 서비스를 이용할떄 필수적으로 거쳐야한다.
 그래서 이공간을 직접 꾸미며 사용하기 편하게 만들었다.
 ```
-<img src="./chat_bot1.jpg", height="100x", width="100px">
+![bot1](./chat_bot1.jpg)
 
 ### 4.개발소감
 
