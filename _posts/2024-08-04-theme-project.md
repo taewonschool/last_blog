@@ -249,10 +249,11 @@ function checkLoginStatus() {
 결론
 이 프로젝트를 개발하면서 여러 가지 오류가 발생했지만, 각 오류의 원인을 분석하고 적절한 해결 방법을 적용하여 문제를 해결했습니다. 주요 오류는 CORS 정책 문제, 인증 토큰 전달 문제, JSON 파일 읽기/쓰기 문제, 네비게이션 바 동적 변경 문제 등이었으며, 이를 해결하여 최종적으로 안정적인 웹 애플리케이션을 개발할 수 있었습니다.
 
-
-
-
-
-
-
 ```
+### 5.사진
+```
+아래는 홈페이지 사진입니다
+```
+![1](https://taewonschool.github.io/last_blog/assets/main.jpg)
+![2](https://taewonschool.github.io/last_blog/assets/study.jpg)
+![3](https://taewonschool.github.io/last_blog/assets/mypage.jpg)
